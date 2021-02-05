@@ -38,5 +38,5 @@ function findPhraseInArray(array, phrase){
 
 // przykładowe działanie:
 const result = findPhraseInArray(inputData,'tut')
-// result === [ [2, 'tutaj'], [5, 'tutaj'] ]
+// result === [ [2, 'tutaj'], [5, 'TUTAJ'] ]
 ```
