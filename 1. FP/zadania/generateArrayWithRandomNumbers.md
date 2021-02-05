@@ -13,7 +13,8 @@
 
 ## Cele główne
 
-* [ ] Wygeneruj tablicę zawierającą X całkowitych liczb losowych z zakresu min i max
+* [ ] Napisz funkcje generateArrayWithRandomNumbers, która wygeneruje array o długości "howManyNumbers" zawierający losowe liczby całkowite z zakresu min i max
+* [ ] Napisz funkcje generateArrayWithArrays, która wygeneruje array z arrayami pochodzącymi z poprzedniej funkcji
 
 ## Cele opcjonalne do wykonania
 
