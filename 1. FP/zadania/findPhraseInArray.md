@@ -14,7 +14,7 @@
 ## Cele główne
 
 * [ ] Stwórz tablicę zawierającą 15 wyrazów
-* [ ] Stwórz funkcję, która jako argument przyjmuje wyraz, funkcja ma sprawdzić czy fraza wystepuje w tablicy.
+* [ ] Stwórz funkcję, która jako argumenty przyjmuje array oraz fraze po której chcemy szukać w arrayu
 * [ ] Jeśli istnieje to ma zwrócić informacje o tym elemencie(pozycja, wartość).
 * [ ] Jeśli nie istnieje to zwraca powiadomienie, że szukanej frazy nie ma w tablicy.
 
@@ -30,7 +30,7 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-const inputData = ['stwórz', 'sobie' ,'tutaj', 'więcej', 'wyrazów']
+const inputData = ['stwórz', 'sobie' ,'tutaj', 'więcej', 'wyrazów', 'TUTAJ'] 
 
 function findPhraseInArray(array, phrase){
     // return
@@ -38,5 +38,5 @@ function findPhraseInArray(array, phrase){
 
 // przykładowe działanie:
 const result = findPhraseInArray(inputData,'tut')
-// result === [ [2, 'tutaj'] ]
+// result === [ [2, 'tutaj'], [5, 'tutaj'] ]
 ```
