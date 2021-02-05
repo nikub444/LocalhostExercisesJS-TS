@@ -11,8 +11,9 @@
 
 ## Cele główne
 
-* [ ] Stwórz funkcję paginateArray, która przyjmuję array do paginacji dataEntries oraz settings o kluczach { actualPageIdx=9, entriesOnPage=50 }(opis parametrów znajduje się w kodzie poniżej)
-* [ ] Funkcja zwraca **entriesOnSelectedPage**, który jest array z odpowiednią ilością elementów z danej strony
+* [ ] Stwórz funkcję paginateArray, która przyjmuję array do podzielenia dataEntries oraz ustawienie dotyczące podziału - settings 
+* [ ] Settings powinno zawierać dwa klucze opisane poniżej w kodzie - actualPageIdx, entriesOnPage
+* [ ] Funkcja zwraca **entriesOnSelectedPage**, który jest arrayem podzielonym według ustawień z settings
 
 ## Cele opcjonalne do wykonania
 
