@@ -14,7 +14,7 @@
 
 ## Cele główne
 
-* [ ] Stwórz strukturę danych związaną z wypożyczaniem książek, pełen opis znajduję się w kodzie poniżej
+* [ ] Stwórz strukturę danych związaną z biblioteką, pełen opis znajduję się w kodzie poniżej
 * [ ] Wypracuj obiekt charakteryzujący książkę
 * [ ] Wypracuj obiekt charakteryzujący wypożyczenie
 * [ ] Wypracuj obiekt charakteryzujący bibliotekę
