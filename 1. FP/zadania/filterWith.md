@@ -13,7 +13,9 @@
 
 ## Cele główne
 
-* [ ] Korzystając z funkcji .filter stwórz funkcje filterWith(array, filter), która ma umożliwić przeszukanie arraya z obiektami po wszystkich wartościach obiektu typu string lub number. Także po wartościach arraya w kluczu "tags" oraz po "name" w kluczu "friends". W kodzie poniżej znajdziesz dodatkowe wytyczne
+* [ ] Korzystając z funkcji .filter stwórz funkcje filterWith(array, phrase), która ma umożliwić przeszukanie arraya z obiektami po wszystkich wartościach obiektu typu string lub number. Także po elementach zagnieżdżony arrayów i obiektów.
+* [ ] Funkcja ma wykorzystywać rekurencję
+* [ ] Funkcja ma wykorzystywać RegExp(wyrażenie regulerane) 
 
 ## Cele opcjonalne do wykonania
 
@@ -24,6 +26,7 @@
 - Array methods w JS - https://medium.com/quick-code/understanding-js-array-methods-which-can-make-programming-not-so-overwhelming-for-beginners-7afb5b4a0967
 - Funkcja w JS - https://codeburst.io/javascript-functions-understanding-the-basics-207dbf42ed99?gi=43b26b329212
 - Object w JS - https://www.digitalocean.com/community/tutorials/understanding-objects-in-javascript
+// czym jest rekurencja i regexp
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
@@ -196,10 +199,10 @@ const data = [
   ]
   
 // tak aby:
-// - od 0 do 2 znaków w filtrze zwracało pusty array, 
+// - od 0 do 2 znaków w phrase zwracało pusty array, 
 // - a powyżej 2 ma filtrować po każdej wartości typu string lub number w obiekcie
   
-  function filterWith(arr, filter){
+  function filterWith(arr, phrase){
     // ...
 }
 ```
