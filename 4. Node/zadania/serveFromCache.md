@@ -31,13 +31,13 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-const apiUrl = 'https://www.googleapis.com/books/v1/volumes?q=clarcson'
+const apiUrl = 'https://www.googleapis.com/books/v1/volumes'
 
-const functionWithFetch = () => {
+const functionWithFetch = (query) => {
   // fetch(apiUrl).then()...
 }
 
-const functionWithAxios = () => {
+const functionWithAxios = (query) => {
   // axios.get(apiUrl).then()...
 }
 ```
