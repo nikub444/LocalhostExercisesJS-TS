@@ -22,3 +22,4 @@
 ## Przydatne linki
 
 - Dokumentacja Jest - https://jestjs.io/docs/en/getting-started
+- Jak testować kod funkcyjny - https://stackoverflow.com/questions/6967211/how-to-write-good-unit-tests-in-functional-programming
