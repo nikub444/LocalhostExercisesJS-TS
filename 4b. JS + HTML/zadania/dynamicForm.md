@@ -1,4 +1,4 @@
-<h2 align="center">Get Url Parameters</h2>
+<h2 align="center">Dynamic Form</h2>
 
 <br>
 
