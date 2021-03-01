@@ -12,7 +12,7 @@
 
 ## Cele główne
 
-- [ ] Korzystając z wbudowanej funkcji tablicy .filter stwórz funkcję filterWith, która przeszuka podaną niżej tablicę obiektów po wszystkich jej wartościach. Funkcja musi także przeszukiwać wszystkie zagnieżdżenia(tablice w tablicy) tablic i obiektów).
+- [ ] Korzystając z wbudowanej funkcji tablicy .filter stwórz funkcję filterWith, która przeszuka podaną niżej tablicę obiektów po wszystkich jej wartościach. Funkcja musi także przeszukiwać wszystkie zagnieżdżenia tablic i obiektów).
 - [ ] Funkcja ma wykorzystywać rekurencję
 - [ ] Funkcja ma wykorzystywać RegExp(wyrażenie regulerane)
 
