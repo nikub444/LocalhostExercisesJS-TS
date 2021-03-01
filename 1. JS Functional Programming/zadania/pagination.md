@@ -6,10 +6,6 @@
 
 - Solidne podstawy JS-a.
 
-## Technologie potrzebne do zadania
-
-- Typescript
-
 ## Cele główne
 
 - [ ] Stwórz funkcję paginateArray, która przyjmuje jako 1 argument tablicę, a jako 2 argument obiekt settings z następującymi kluczami :
