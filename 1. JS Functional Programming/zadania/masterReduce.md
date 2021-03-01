@@ -16,7 +16,7 @@
 - [ ] Stwórz mapFn() – działa tak samo jak tablicowa metoda .map
 - [ ] Stwórz filterFn() – działa tak samo jak metoda tablicy .filter
 - [ ] Stwórz everyFn() – działa tak samo jak metoda tablicy .every
-- [ ] działa tak samo jak metoda tablicy .some
+- [ ] Stwórz someFn() - działa tak samo jak metoda tablicy .some
 
 ## Cele opcjonalne do wykonania
 
