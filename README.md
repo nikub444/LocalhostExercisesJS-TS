@@ -1,5 +1,8 @@
 # Javascript & Typescript Fundamentals
 
+## Roadmapa:
+![alt text](roadmapa_etapu.png "Roadmapa")
+
 ### Kolejność wykonywania zadań z modułów:
 1. Programowanie Funkcyjne - ```folder 1. FP```
 2. Programowanie Obiektowe - ```folder 2. FP```
@@ -7,7 +10,6 @@
 4.  Proste skrypty w node i asynchroniczność - ```folder 4a. Node and async```
 5. Proste skrypty w JS i praca z DOM  - ```folder 4b. JS + HTML```
 6. Testy - ```folder 5. Testy```
-
 
 ### Materiały:
 Prework:
@@ -24,6 +26,3 @@ https://github.com/Przemocny/js_env_for_training
 
 Repozytorium dla TS
 https://github.com/Przemocny/ts_env_for_training
-
-### Roadmapa:
-![alt text](roadmapa_etapu.png "Roadmapa")
