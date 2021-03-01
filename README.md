@@ -3,14 +3,6 @@
 ## Roadmapa:
 ![alt text](roadmapa_etapu.png "Roadmapa")
 
-### Kolejność wykonywania zadań z modułów:
-1. Programowanie Funkcyjne - ```folder 1. FP```
-2. Programowanie Obiektowe - ```folder 2. FP```
-3. Typescript - ```folder 3. TS FP+OOP```
-4.  Proste skrypty w node i asynchroniczność - ```folder 4a. Node and async```
-5. Proste skrypty w JS i praca z DOM  - ```folder 4b. JS + HTML```
-6. Testy - ```folder 5. Testy```
-
 ### Materiały:
 Prework:
 https://docs.google.com/document/d/1ZafajK6FNmxAniWvd2FUX5kWVJL8_4ETiJm_Ri5Jx60/edit#
