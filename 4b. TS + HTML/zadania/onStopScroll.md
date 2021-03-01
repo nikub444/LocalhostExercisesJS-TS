@@ -26,3 +26,12 @@
 ## Przydatne linki
 
 - Właściwości window - https://www.w3schools.com/jsref/obj_window.asp
+
+## Kawałek kodu dla lepszego początku!
+
+```html
+<body>
+    <div>
+    </div>
+</body>
+```
