@@ -3,25 +3,24 @@
 <br>
 
 ## Wymagana wiedza
+
 - Podstawy Javascript
-- Podstawy Typescript
- 
+
 ## Technologie potrzebne do zadania
 
-- Typescript
 - Javascript
 
 ## Cele główne
 
-* [ ] Za pomocą metody .reduce wbudowanej w array odtwórz działanie innych metod tablicowych
-* [ ] Stwórz mapFn()
-* [ ] Stwórz filterFn()
-* [ ] Stwórz everyFn()
-* [ ] Stwórz someFn()
+- [ ] Za pomocą metody .reduce wbudowanej w array odtwórz działanie innych metod tablicowych
+- [ ] Stwórz mapFn() – działa tak samo jak tablicowa metoda .map
+- [ ] Stwórz filterFn() – działa tak samo jak metoda tablicy .filter
+- [ ] Stwórz everyFn() – działa tak samo jak metoda tablicy .every
+- [ ] działa tak samo jak metoda tablicy .some
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Brak
+- [ ] Brak
 
 ## Przydatne linki
 
@@ -32,11 +31,11 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-function mapFn(array, callback){}
+function mapFn(array, callback) {}
 
-function filterFn(array, callback){}
+function filterFn(array, callback) {}
 
-function everyFn(array, callback){}
+function everyFn(array, callback) {}
 
-function someFn(array, callback){}
+function someFn(array, callback) {}
 ```

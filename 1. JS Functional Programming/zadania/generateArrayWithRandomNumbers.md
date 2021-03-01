@@ -3,22 +3,21 @@
 <br>
 
 ## Wymagana wiedza
+
 - Podstawy Javascript
-- Podstawy Typescript
- 
+
 ## Technologie potrzebne do zadania
 
-- Typescript
 - Javascript
 
 ## Cele główne
 
-* [ ] Napisz funkcje generateArrayWithRandomNumbers, która wygeneruje array o długości "howManyNumbers" zawierający losowe liczby całkowite z zakresu min i max
-* [ ] Napisz funkcje generateArrayWithArrays, która wygeneruje array z arrayami pochodzącymi z poprzedniej funkcji
+- [ ] Napisz funkcję generateArrayWithRandomNumbers, która zwróci tablicę o długości podanej jako „howManyNumbers”. Ta tablica musi zawierać w sobie losowe liczby z zakresu min i max.
+- [ ] Napisz funkcje generateArrayWithArrays, która wygeneruje array z arrayami pochodzącymi z poprzedniej funkcji
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Brak
+- [ ] Brak
 
 ## Przydatne linki
 
@@ -28,8 +27,8 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-function generateArrayWithRandomNumbers(howManyNumbers=10, min=1, max=10){}
+function generateArrayWithRandomNumbers(howManyNumbers = 10, min = 1, max = 10) {}
 // [1,5,4,5,7,9,1,10,5,4]
-function generateArrayOfArrays(howManyArrays=10, howManyNumbers=10, min=1, max=10){}
+function generateArrayOfArrays(howManyArrays = 10, howManyNumbers = 10, min = 1, max = 10) {}
 // 10 arrayów z 10 liczbami z zakresu od 1 do 10
 ```

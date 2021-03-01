@@ -25,9 +25,9 @@
 ```javascript
 const alphabet = "abcdefghijklmnoprstuwxyz".split("");
 
-function aggregateIntoChunks(array) {
+const aggregateIntoChunks = (array) => {
   // return ...
-}
+};
 
 const chunks = aggregateIntoChunks(alphabet);
 

@@ -3,21 +3,23 @@
 <br>
 
 ## Wymagana wiedza
+
 - Solidne podstawy JS-a.
- 
+
 ## Technologie potrzebne do zadania
 
-- Typescript 
+- Typescript
 
 ## Cele główne
 
-* [ ] Stwórz funkcję paginateArray, która przyjmuję array do podzielenia dataEntries oraz ustawienie dotyczące podziału - settings 
-* [ ] Settings powinno zawierać dwa klucze opisane poniżej w kodzie - actualPageIdx, entriesOnPage
-* [ ] Funkcja zwraca **entriesOnSelectedPage**, który jest arrayem podzielonym według ustawień z settings
+- [ ] Stwórz funkcję paginateArray, która przyjmuje jako 1 argument tablicę, a jako 2 argument obiekt settings z następującymi kluczami :
+  - „actualPageIndex” = numer strony
+  - „entriesOnPage” – ilośc obiektów na pojedynczej stronie
+- [ ] Funkcja zwraca **entriesOnSelectedPage**, który jest arrayem podzielonym według ustawień z settings
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Brak
+- [ ] Brak
 
 ## Przydatne linki
 
@@ -30,7 +32,7 @@
 // entriesOnPage to maksymalna zwracana ilość elementów z dataEntries dla wybranej strony
 
 const paginateArray = (dataEntries, settings) => {
-    // ...
-    // return entriesOnSelectedPage
-}
+  // ...
+  // return entriesOnSelectedPage
+};
 ```

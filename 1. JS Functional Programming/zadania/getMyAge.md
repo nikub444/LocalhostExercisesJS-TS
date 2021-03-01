@@ -3,21 +3,20 @@
 <br>
 
 ## Wymagana wiedza
+
 - Podstawy Javascript
-- Podstawy Typescript
- 
+
 ## Technologie potrzebne do zadania
 
-- Typescript
 - Javascript
 
 ## Cele główne
 
-* [ ] Utwórz funkcję, która jako argument przyjmuje Twój rok urodzenia. Funkcja powinna zwrócić Twój aktualny wiek niezależnie od typu inputa, który otrzyma
+- [ ] Utwórz funkcję, która jako argument przyjmuje Twój rok urodzenia. Funkcja powinna zwrócić Twój aktualny wiek niezależnie od typu inputa, który otrzyma
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Brak
+- [ ] Brak
 
 ## Przydatne linki
 
@@ -27,13 +26,13 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-function getMyAge(input){
-    // ...
+function getMyAge(input) {
+  // ...
 }
 
-const result1 = getMyAge(new Date(1990, 1, 1))
-const result2 = getMyAge('1990')
-const result3 = getMyAge(1990)
+const result1 = getMyAge(new Date(1990, 1, 1));
+const result2 = getMyAge("1990");
+const result3 = getMyAge(1990);
 
 // wyniki result1, result2 i result3 mają być identyczne
 ```

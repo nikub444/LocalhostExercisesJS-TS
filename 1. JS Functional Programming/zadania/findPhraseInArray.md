@@ -3,24 +3,23 @@
 <br>
 
 ## Wymagana wiedza
+
 - Podstawy Javascript
-- Podstawy Typescript
- 
+
 ## Technologie potrzebne do zadania
 
-- Typescript
 - Javascript
 
 ## Cele główne
 
-* [ ] Stwórz tablicę zawierającą 15 wyrazów
-* [ ] Stwórz funkcję, która jako argumenty przyjmuje array oraz fraze po której chcemy szukać w arrayu
-* [ ] Jeśli istnieje to ma zwrócić informacje o tym elemencie(pozycja, wartość).
-* [ ] Jeśli nie istnieje to zwraca powiadomienie, że szukanej frazy nie ma w tablicy.
+- [ ] Stwórz tablicę z 15 losowymi, wybranymi przez ciebie wyrazami”(Muszą być typu string)
+- [ ] Stwórz funkcję, która jako pierwszy argument przyjmuje tablicę wyrazów, a jako drugą wartość frazę, którą chcemy znaleźć w tej tablicy
+- [ ] Jeżeli szukana przez nas fraza istnieje w tablicy to funkcja ma zwrócić jej wartość, a także indeks(pozycję) w tablicy.
+- [ ] Jeżeli szukana fraza nie istnieje to funkcja ma zwrócić informację, że szukanej frazy nie ma w tablicy.
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Brak
+- [ ] Brak
 
 ## Przydatne linki
 
@@ -30,13 +29,13 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-const inputData = ['stwórz', 'sobie' ,'tutaj', 'więcej', 'wyrazów', 'TUTAJ'] 
+const inputData = ["stwórz", "sobie", "tutaj", "więcej", "wyrazów", "TUTAJ"];
 
-function findPhraseInArray(array, phrase){
-    // return
-}
+const findPhraseInArray = (array, phrase) => {
+  // return
+};
 
 // przykładowe działanie:
-const result = findPhraseInArray(inputData,'tut')
+const result = findPhraseInArray(inputData, "tut");
 // result === [ [2, 'tutaj'], [5, 'TUTAJ'] ]
 ```

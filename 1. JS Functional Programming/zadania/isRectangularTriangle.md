@@ -3,21 +3,20 @@
 <br>
 
 ## Wymagana wiedza
+
 - Podstawy Javascript
-- Podstawy Typescript
- 
+
 ## Technologie potrzebne do zadania
 
-- Typescript
 - Javascript
 
 ## Cele główne
 
-* [ ] Utwórz funkcję, która jako argumenty przyjmie trzy liczby. Funkcja powinna zwrócić true jeśli z odcinków o długości przekazanych w argumentach można zbudować trójkąt prostokątny, lub informację że z podanych długości nie można utworzyć trójkąta prostokątnego
+- [ ] Utwórz funkcję, która jako argumenty przyjmie trzy liczby. Funkcja powinna zwrócić true jeśli z odcinków o długości przekazanych w argumentach można zbudować trójkąt prostokątny. Jeżeli z podanych boków nie można stworzyć trójkąta prostokątnego funkcja powinna zwrócić odpowiednią informację
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Brak
+- [ ] Brak
 
 ## Przydatne linki
 
@@ -27,15 +26,15 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-function isRectangularTriangle(x1,x2,x3){
-    // return ...
+function isRectangularTriangle(x1, x2, x3) {
+  // return ...
 }
 
-const cond1 = isRectangularTriangle(3,4,5)
-const cond2 = isRectangularTriangle(4,3,5)
+const cond1 = isRectangularTriangle(3, 4, 5);
+const cond2 = isRectangularTriangle(4, 3, 5);
 // cond1 i cond2 to true
 
-const cond3 = isRectangularTriangle(4,3,2)
-const cond4 = isRectangularTriangle(4,4,4)
+const cond3 = isRectangularTriangle(4, 3, 2);
+const cond4 = isRectangularTriangle(4, 4, 4);
 // cond3 i cond4 to false
 ```
