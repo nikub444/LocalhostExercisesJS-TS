@@ -3,20 +3,17 @@
 <br>
 
 ## Wymagana wiedza
-- Solidne podstawy JS-a.
- 
-## Technologie potrzebne do zadania
 
-- Typescript 
+- Solidne podstawy JS-a.
 
 ## Cele główne
 
-* [ ] Stwórz funkcję **aggregateIntoChunks** agregującą wszystkie elementy array na losowej długości chunki 
-* [ ] Każdy chunk powienien mieć od 4 do 7 elementów, ostatni chunk też powinien być długości od 4 do 7
+- [ ] Stwórz funkcję **aggregateIntoChunks** agregującą wszystkie elementy array na losowej długości chunki
+- [ ] Każdy chunk powienien mieć od 4 do 7 elementów, ostatni chunk też powinien być długości od 4 do 7
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Brak
+- [ ] Brak
 
 ## Przydatne linki
 
@@ -26,13 +23,13 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-const alphabet = 'abcdefghijklmnoprstuwxyz'.split('')
+const alphabet = "abcdefghijklmnoprstuwxyz".split("");
 
-function aggregateIntoChunks(array){
-    // return ...
+function aggregateIntoChunks(array) {
+  // return ...
 }
 
-const chunks = aggregateIntoChunks(alphabet)
+const chunks = aggregateIntoChunks(alphabet);
 
 // chunks:
 // [[a,b,c,d,e,f],[g,h,i,j,k],[l,m,n,o,p,r,s],[t,u,w,x,y,z]]
