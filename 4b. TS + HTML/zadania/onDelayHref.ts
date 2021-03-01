@@ -1,3 +1,5 @@
+// !!!!TODO update
+
 // stwórz customową parę atrybutów data-delayed-
 // - ma występować TYLKO RAZEM i być tylko do tagów <a>
 // - która będzie opóźniać przekierowanie NA INNY url o kilkaset milisekund
@@ -17,7 +19,7 @@ function onClick(event){
 // - wyświetlić w konsoli 'kliknięte z opóźnieniem' 
 // - po 300ms przekierować na /contact
 
-<a data-delayed-href="/contact" data-delayed-duration="300">Contact me</a>
+// <a data-delayed-href="/contact" data-delayed-duration="300">Contact me</a>
 
 
 

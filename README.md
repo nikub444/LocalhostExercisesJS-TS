@@ -24,3 +24,6 @@ https://github.com/Przemocny/js_env_for_training
 
 Repozytorium dla TS
 https://github.com/Przemocny/ts_env_for_training
+
+### Roadmapa:
+![alt text](roadmapa_etapu.png "Roadmapa")

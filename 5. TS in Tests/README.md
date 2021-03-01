@@ -31,3 +31,6 @@ Testy to taki kawałek kodu, który coś sprawdza, a co sprawdza to już zależy
 ```UWAGA, nie testuj zadań z modułu JS/HTML chyba, że strasznie chcesz :) testowanie UI i powiązanej logiki będzie w module z testowaniu w React ```
 
 ```UWAGA, nie testuj zadań w których musisz postawić serwer expressa, chyba że strasznie chcesz :) testowanie api i logiki serwerowej będzie w module z testowaniem na backendzie ```
+
+### Link do materiałów
+https://docs.google.com/spreadsheets/d/1XKSc9h4VdIgDIv0TrHc8cZnPNUzkGedTWKKoFd4nIVI/edit#gid=100022461

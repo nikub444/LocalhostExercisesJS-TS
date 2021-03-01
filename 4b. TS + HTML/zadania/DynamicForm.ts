@@ -1,3 +1,5 @@
+// !!!!TODO update
+
 // napisz funkcję do generowania dynamicznie formularzy 
 function generateFormOnPattern(settings){
     // return ...

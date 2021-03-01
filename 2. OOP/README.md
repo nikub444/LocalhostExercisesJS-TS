@@ -36,3 +36,6 @@ class Validator {
 - pracę z kontekstem klas
 - budowanie odpowiedniego api dla metod klasy
 - trochę słownictwa z IT
+
+### Link do materiałów
+https://docs.google.com/spreadsheets/d/1XKSc9h4VdIgDIv0TrHc8cZnPNUzkGedTWKKoFd4nIVI/edit#gid=1231853382

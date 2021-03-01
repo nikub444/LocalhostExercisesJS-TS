@@ -16,3 +16,7 @@ Jest to pierwszy moduł na ścieżce rozwoju, ma Ci pomóc ugruntować podstawow
 - walidacji na typy, wartości oraz logikę zadania
 - refactoringu własnego kodu wg lepszych wzorców
 - trochę słownictwa z IT
+
+
+### Link do materiałów
+https://docs.google.com/spreadsheets/d/1XKSc9h4VdIgDIv0TrHc8cZnPNUzkGedTWKKoFd4nIVI/edit#gid=0
