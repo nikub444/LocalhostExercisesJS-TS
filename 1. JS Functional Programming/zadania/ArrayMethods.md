@@ -33,7 +33,7 @@ const forEachFn = (array, callback) => {};
 
 const mapFn = (array, callback) => {};
 
-const entriesFn = (array, callback) => {};
+const entriesFn = (array) => {};
 
 const filterFn = (array, callback) => {};
 
