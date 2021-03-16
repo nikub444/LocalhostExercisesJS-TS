@@ -3,6 +3,7 @@
 <br>
 
 ## Wymagana wiedza
+
 - Podstawy Javascript
 - Podstawy Typescript
 - Asynchroniczność
@@ -11,17 +12,18 @@
 
 - Typescript
 - Javascript
+- Express.js
 
 ## Cele główne
 
-* [ ] Stwórz fukcjonalność do zaciągania i cachowania danych z https://www.googleapis.com/books/v1/volumes?q=clarcson która:
-* [ ] Zaciągnie dane poprzez axiosa/fetcha z open api google books na podstawie danego query
-* [ ] Dla każdego query (q=) który wpisze user, funkcja zapiszę plik json w folderze /cache z nazwą która jest slugiem query oraz wysle do użytkownika dane o tym query
-* [ ] Ponowne wywołanie danej funkcjonalności z tym samym query powoduje zaserwowanie danych z pliku json
+- [ ] Stwórz fukcjonalność do zaciągania i cachowania danych z https://www.googleapis.com/books/v1/volumes?q=clarcson która:
+- [ ] Zaciągnie dane poprzez axiosa/fetcha z open api google books na podstawie danego query
+- [ ] Dla każdego query (q=) który wpisze user, funkcja zapiszę plik json w folderze /cache z nazwą która jest slugiem query oraz wysle do użytkownika dane o tym query
+- [ ] Ponowne wywołanie danej funkcjonalności z tym samym query powoduje zaserwowanie danych z pliku json
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Brak
+- [ ] Brak
 
 ## Przydatne linki
 
@@ -31,13 +33,13 @@
 ## Kawałek kodu dla lepszego początku!
 
 ```javascript
-const apiUrl = 'https://www.googleapis.com/books/v1/volumes'
+const apiUrl = "https://www.googleapis.com/books/v1/volumes";
 
 const functionWithFetch = (query) => {
   // fetch(apiUrl).then()...
-}
+};
 
 const functionWithAxios = (query) => {
   // axios.get(apiUrl).then()...
-}
+};
 ```

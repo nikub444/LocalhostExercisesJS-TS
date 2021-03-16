@@ -3,29 +3,29 @@
 <br>
 
 ## Wymagana wiedza
+
 - Solidne podstawy JS-a.
 - Asynchroniczność(promise, async/await).
- 
+
 ## Technologie potrzebne do zadania
 
-- Express.js lub Next.js.
+- Express.js
 - biblioteka nodemailer
 - Opcjonalnie bibliotekę mjml
 
 ## Cele główne
 
-* [ ] Stwórz endpoint na metodzie GET, który wyślę maila z losową treścią i przyciskiem do kliknięcia
-* [ ] Użytkownik w przypadku kliknięcia maila nr1 powinien otrzymać maila nr2
+- [ ] Stwórz endpoint na metodzie GET, który wyślę maila z losową treścią i przyciskiem do kliknięcia
+- [ ] Użytkownik w przypadku kliknięcia maila nr1 powinien otrzymać maila nr2
 
 ## Cele opcjonalne do wykonania
 
-* [ ] Wysyłający dostanie maila, wtedy kiedy osoba do której wysyłamy maila otworzy tego maila
+- [ ] Wysyłający dostanie maila, wtedy kiedy osoba do której wysyłamy maila otworzy tego maila
 
 ## Przydatne linki
 
 - Jak lepiej zrozumieć metodę GET - https://rapidapi.com/blog/api-glossary/get/
 - Świetne źródło wiedzy o nodemailer czyli dokumentacja! - https://nodemailer.com/about/
-
 
 ## Kawałek kodu dla lepszego początku!
 
@@ -33,7 +33,7 @@
 import express from 'express'
 import nodemailer from 'nodemailer'
 const router = express.Router();
- 
+
 config nodemailera
 router.get('/send-mail', (res,res) => {
 

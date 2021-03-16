@@ -9,7 +9,7 @@
  
 ## Technologie potrzebne do zadania
 
-- Express.js lub Next.js.
+- Express.js
 - Natywny moduł file system 
 
 ## Cele główne
