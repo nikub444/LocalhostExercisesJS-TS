@@ -12,10 +12,12 @@
 
 ## Cele główne
 
-* [ ] Stwórz klasę dla struktury danych związanych z użytkownikiem(wytyczne w kodzie poniżej)
-* [ ] Klasa ma mieć możliwość zmiany adresu email
-* [ ] Stwórz klasę dla struktury danych związanych z administratorem, Klasa ma dziedziczyć po klasie User wszystkie informacje i metody
-* [ ] Klasa ma mieć poziom dostępu = "admin" oraz umożliwiać zmianę poziomu dostępu dla innego User i zmianę hasła dla innego Usera
+* [ ] Stwórz dwie klasy dla struktury danych związanych z użytkownikiem(wytyczne w kodzie poniżej)
+* [ ] Klasa User ma dostępne dwa poziomy dostępu: normal i admin.
+* [ ] Powinna umożliwiać zmianę hasła, emaila oraz poziomu dostępu.
+* [ ] User z poziomem dostępu = "admin" może zmieniać hasła,emaile oraz poziomy dostępu innych użytkowników.
+* [ ] Klasa App powinna zarządzać relacjami pomiędzy użytkownikami.
+* [ ] Zawiera listę użytkowników, pozwala tworzyć nowych użytkowników o różnych poziomach dostępu.
 
 ## Cele opcjonalne do wykonania
 
@@ -44,10 +46,13 @@ class User{
  hasło
  płeć
  adres email
- poziom dostępu = "user")
+ poziom dostępu = "user" | "admin")
 }
 
-class Administrator{
-
+class App{
+ listOfUsers
+ createUser(...)
+ createAdmin(...)
+ wszystkie metody w których admin ingeruje we właściwości innych użytkowników
 }
 ```
