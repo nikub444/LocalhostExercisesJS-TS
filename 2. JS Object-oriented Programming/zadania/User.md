@@ -22,7 +22,6 @@
 ## Cele opcjonalne do wykonania
 
 * [ ] Stwórz klase pomocniczną Validator, która będzie posiadała metody statyczne odpowiedzalne za walidacje usera. Jeżeli któraś z walidacji się nie powiedzie, instancja ma nie być tworzona, tylko ma zwracać error z odpowiednim komunikatem o niepowiedzionej walidacji. W razie problemów przy tworzeniu klasy validator, polecam zapoznać się z dokumentacja biblioteki is.js.
-* [ ] Validator ma być napisany we wzorcu **Singleton** 
 
 ## Przydatne linki
 
