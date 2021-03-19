@@ -13,7 +13,7 @@
 
 ## Cele główne
 
-* [ ] Twoim zadaniem jest stworzyć funkcję `zoomOnHover` która po najechaniu kursorem na zjęcie umieszczone w elemencie z klasą  `.zoomOnHover`  stworzy obok nowe okno, z możliwością dokładniejszego obejrzenia powiększonego produktu jak w przykładzie: https://nbsklep.pl/new_balance_cm997hae.html.
+* [ ] Twoim zadaniem jest stworzyć funkcję `zoomOnHover` która po najechaniu kursorem na zdjęcie umieszczone w elemencie z klasą  `.zoomOnHover`  stworzy obok nowe okno, z możliwością dokładniejszego obejrzenia powiększonego produktu jak w przykładzie: https://nbsklep.pl/new_balance_cm997hae.html.
 
 
 ## Przydatne linki
