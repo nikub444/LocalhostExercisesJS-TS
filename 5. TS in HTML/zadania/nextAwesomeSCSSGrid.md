@@ -29,7 +29,7 @@
 
 ## Przydatne linki
 
-- SASS - https://sass-lang.com/
+- Pętla w SASS - https://sass-lang.com/documentation/at-rules/control/for?fbclid=IwAR31fpA8qiceF_FPghRdFnzwldrRhs62tzg4FQfHVvK5zdFylUbZR8xq_08
 - FlexBox - https://developer.mozilla.org/pl/docs/Learn/CSS/CSS_layout/Flexbox
 
 ## Kawałek kodu dla lepszego początku!
