@@ -12,7 +12,6 @@
 
 - Typescript
 - Javascript
-- Express.js
 
 ## Cele główne
 
