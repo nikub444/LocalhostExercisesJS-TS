@@ -15,8 +15,8 @@
 
 ## Cele główne
 
-- [ ] Stwórz fukcjonalność do zaciągania i cachowania danych z https://www.googleapis.com/books/v1/volumes?q=clarcson która:
-- [ ] Zaciągnie dane poprzez axiosa/fetcha z open api google books na podstawie danego query
+- [ ] Stwórz fukcjonalność do pobierania i cachowania danych z https://www.googleapis.com/books/v1/volumes?q=clarcson która:
+- [ ] Pobierze dane poprzez axiosa/fetcha z open api google books na podstawie danego query
 - [ ] Dla każdego query (q=) który wpisze user, funkcja zapiszę plik json w folderze /cache z nazwą która jest slugiem query oraz wysle do użytkownika dane o tym query
 - [ ] Ponowne wywołanie danej funkcjonalności z tym samym query powoduje zaserwowanie danych z pliku json
 
