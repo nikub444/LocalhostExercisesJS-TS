@@ -32,7 +32,6 @@ https://github.com/Przemocny/ts_env_for_training
 
 ## 3. Książki, które polecam swoim studentom:
 - Typescript na poważnie - Michał Miszczyszyn
-- Dive into Desing Patterns - Alexander Shvets
 - Clean Code - Robert Martin
 
 ## 4. Portale, które polecam swoim studentom:
