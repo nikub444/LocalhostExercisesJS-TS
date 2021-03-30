@@ -33,4 +33,4 @@ Testy to taki kawałek kodu, który coś sprawdza, a co sprawdza to już zależy
 ```UWAGA, nie testuj zadań w których musisz postawić serwer expressa, chyba że strasznie chcesz :) testowanie api i logiki serwerowej będzie w module z testowaniem na backendzie ```
 
 ### Link do materiałów
-https://docs.google.com/spreadsheets/d/1XKSc9h4VdIgDIv0TrHc8cZnPNUzkGedTWKKoFd4nIVI/edit#gid=100022461
+https://docs.google.com/spreadsheets/d/1rtsiw2xnc0L-bCCVjkfe-6CO_RU54iHgEQhh68O_ya0/edit#gid=814030621

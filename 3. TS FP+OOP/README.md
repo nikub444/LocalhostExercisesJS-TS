@@ -15,6 +15,4 @@ Im szybciej przeniesiesz się na TS i nauczysz się z niego korzystać tym lepie
 - trochę słownictwa z IT
 
 ### Link do materiałów
-https://docs.google.com/spreadsheets/d/1XKSc9h4VdIgDIv0TrHc8cZnPNUzkGedTWKKoFd4nIVI/edit#gid=302097420
-
-#### przydatne książki są na slacku przypięted na kanale administracyjny
+https://docs.google.com/spreadsheets/d/1rtsiw2xnc0L-bCCVjkfe-6CO_RU54iHgEQhh68O_ya0/edit#gid=1708154223

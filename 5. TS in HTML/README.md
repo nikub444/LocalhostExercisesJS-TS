@@ -13,4 +13,4 @@ Czasem praca frontendowca wymaga, aby wiedzieć jak działa zwykły TS i jak co�
 - trochę słownictwa z IT
 
 ### Link do materiałów
-https://docs.google.com/spreadsheets/d/1XKSc9h4VdIgDIv0TrHc8cZnPNUzkGedTWKKoFd4nIVI/edit#gid=70249900
+https://docs.google.com/spreadsheets/d/1rtsiw2xnc0L-bCCVjkfe-6CO_RU54iHgEQhh68O_ya0/edit#gid=1879166018

@@ -19,4 +19,4 @@ Jest to pierwszy moduł na ścieżce rozwoju, ma Ci pomóc ugruntować podstawow
 
 
 ### Link do materiałów
-https://docs.google.com/spreadsheets/d/1XKSc9h4VdIgDIv0TrHc8cZnPNUzkGedTWKKoFd4nIVI/edit#gid=0
+https://docs.google.com/spreadsheets/d/1rtsiw2xnc0L-bCCVjkfe-6CO_RU54iHgEQhh68O_ya0/edit#gid=0
