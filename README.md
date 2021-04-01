@@ -13,11 +13,7 @@ jeśli Twoja wiedza nie jest wystarczająca, aby podjąć się realizacji zadań
 ### Sprawdzona wiedza prosto z Akademii Localhost:
 
 #### Materiały pisane można znaleźć tutaj:
-Google Sheet z wiedzą (stary, depreciated)
-https://docs.google.com/spreadsheets/d/1ujcS1TpyZeCxaOhaYbR84ocoibOFN8PCmMz2UfURpRg/edit#gid=0
-
-Google Sheet z wiedzą (nowy, alpha)
-https://docs.google.com/spreadsheets/d/1XKSc9h4VdIgDIv0TrHc8cZnPNUzkGedTWKKoFd4nIVI/edit
+https://docs.google.com/spreadsheets/d/1rtsiw2xnc0L-bCCVjkfe-6CO_RU54iHgEQhh68O_ya0/edit#gid=0
 
 #### Autorskie nagrania na tematy teoretyczne i praktyczne można znaleźć tutaj:
 - https://gladiators-of-javascript.com/records
