@@ -8,7 +8,7 @@
 
 ## Technologie potrzebne do zadania
 
-- HTML, CSS 
+- HTML, CSS, Javascript
 
 ## Cele główne
 

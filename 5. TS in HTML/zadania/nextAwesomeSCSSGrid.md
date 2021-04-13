@@ -4,12 +4,12 @@
 
 ## Wymagana wiedza
 
-- Podstawy html oraz JavaScript, SASS, Flexbox
+- SASS, Flexbox
 
 
 ## Technologie potrzebne do zadania
 
-- Podstawy html oraz JavaScript, SASS, Flexbox
+- SASS, Flexbox
 
 ## Cele główne
 

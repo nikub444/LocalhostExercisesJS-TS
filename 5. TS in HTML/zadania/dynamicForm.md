@@ -9,7 +9,7 @@
 
 ## Technologie potrzebne do zadania
 
-- HTML, JavaScript, 
+- HTML, JavaScript
 
 ## Cele główne
 

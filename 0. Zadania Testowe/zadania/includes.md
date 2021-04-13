@@ -3,11 +3,12 @@
 <br>
 
 ## Wymagana wiedza
+
 - Solidne podstawy JS-a.
  
 ## Technologie potrzebne do zadania
 
-- Typescript 
+- Javascript 
 
 ## Cele główne
 
